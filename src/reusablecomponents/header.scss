@@ -1,0 +1,28 @@
+.headingFirst{
+    display: flex;
+    flex-direction: row;
+    padding-left: 6%;
+    
+}
+.headingSecond{
+    display: flex;
+    flex-direction: row;
+    padding-left: 8%;
+    padding-top: 3%;
+}
+.firstMenu{
+    display: flex;
+    justify-content: end;
+}
+.othersMenu{
+    display: flex;
+    margin-right: 8%;
+    padding-top: 1%;
+}
+.searchButton{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 36px;
+    min-width: 13%;
+}
